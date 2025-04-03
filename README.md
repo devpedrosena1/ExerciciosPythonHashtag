@@ -29,7 +29,7 @@
 
 - 🟦 modulo13_iterables → Iteradores e iteráveis
 
-- <br>
+<hr>
 
 *📌 Funções e Bibliotecas*
 
@@ -37,7 +37,7 @@
 
 - 📊 modulo21_numpy → Introdução ao NumPy
 
-<br>
+<hr>
 
 **Como rodar os projetos**
 1️⃣ Clone o repositório
@@ -51,7 +51,7 @@
 
 **💡 Dica: Se quiser testar os códigos interativamente, abra o arquivo em um editor como o VS Code ou use um notebook Jupyter!**
 
-<br>
+<hr>
 
 *🤝 Contribuições*
 - Curtiu os exercícios? Quer melhorar algo ou adicionar novas soluções? Fique à vontade para:
@@ -59,7 +59,7 @@
 🔹 Criar uma branch com suas alterações
 🔹 Abrir um pull request
 
-<br>
+<hr>
 
 *📜 Licença*
 - 📝 Uso livre! Quer estudar, modificar ou até compartilhar com amigos? Vai fundo! Se possível, só me avise para eu ver o que você está aprontando 😄🚀
